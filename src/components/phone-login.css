@@ -1,0 +1,21 @@
+#submit-btn {
+  outline: none;
+  border: none;
+  color: #eaeaae;
+  display: block;
+  background: rgb(3, 9, 46);
+  padding: 10px 45px;
+  margin: 15px auto;
+  margin-top: 25px;
+  font-weight: bolder;
+  border-radius: 2px;
+  cursor: pointer;
+  box-shadow: 1px 3px 0 1px rgba(3, 9, 46, 0.9);
+}
+
+#number-input {
+  padding: 15px 25px;
+  border-radius: 5px;
+  outline: none;
+  border: 1px solid #eaeaea;
+}
